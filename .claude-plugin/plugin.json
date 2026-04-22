@@ -1,0 +1,13 @@
+{
+  "name": "migadu",
+  "description": "Manage Migadu email hosting (domains, mailboxes, aliases, identities, forwardings, rewrites) with workflow guidance for DNS onboarding, routing decisions, and bulk operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Michael Broel",
+    "email": "michael@michaelzag.com"
+  },
+  "homepage": "https://github.com/Michaelzag/migadu-plugin",
+  "repository": "https://github.com/Michaelzag/migadu-plugin",
+  "license": "MIT",
+  "keywords": ["migadu", "email", "mcp", "domain", "mailbox", "forwarding"]
+}

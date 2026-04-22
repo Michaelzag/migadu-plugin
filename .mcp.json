@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "migadu": {
+      "command": "uvx",
+      "args": ["migadu-mcp"],
+      "env": {
+        "MIGADU_EMAIL": "${MIGADU_EMAIL}",
+        "MIGADU_API_KEY": "${MIGADU_API_KEY}",
+        "MIGADU_DOMAIN": "${MIGADU_DOMAIN}"
+      }
+    }
+  }
+}
