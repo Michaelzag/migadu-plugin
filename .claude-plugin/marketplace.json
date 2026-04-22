@@ -1,7 +1,7 @@
 {
-  "name": "migadu",
+  "name": "michaelzag",
   "metadata": {
-    "description": "Migadu email hosting plugin — MCP server + workflow skills for domain setup, DNS, routing, bulk ops, and client configuration."
+    "description": "Michael Broel's Claude Code plugins."
   },
   "owner": {
     "name": "Michael Broel",

@@ -20,14 +20,10 @@ Add this repo as a plugin marketplace and install:
 
 ```
 /plugin marketplace add Michaelzag/migadu-plugin
-/plugin install migadu@Michaelzag/migadu-plugin
+/plugin install migadu@michaelzag
 ```
 
-Or if you've already added it via the Anthropic marketplace (once published there), just:
-
-```
-/plugin install migadu
-```
+`migadu` is the plugin name; `michaelzag` is the marketplace name. If the plugin ever lands on the official Anthropic marketplace, `/plugin install migadu` alone will work.
 
 ## Configuration
 
