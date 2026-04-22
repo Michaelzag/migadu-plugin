@@ -1,0 +1,17 @@
+{
+  "name": "migadu",
+  "metadata": {
+    "description": "Migadu email hosting plugin — MCP server + workflow skills for domain setup, DNS, routing, bulk ops, and client configuration."
+  },
+  "owner": {
+    "name": "Michael Broel",
+    "email": "michael@michaelzag.com"
+  },
+  "plugins": [
+    {
+      "name": "migadu",
+      "source": "./",
+      "description": "Migadu email hosting — MCP server with workflow skills for domain onboarding, DNS configuration, routing decisions, bulk operations, and email-client setup."
+    }
+  ]
+}
